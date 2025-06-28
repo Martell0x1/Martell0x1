@@ -1,5 +1,35 @@
-# 💫 About Me:
-Hi there 👋<br>Hi, I'm Marwan!<br>👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Computer Science at the University of Alexandria, Egypt<br>🌷 #TechnicalWriting sharing my knowledge on my Linkedin profile<br>🔭 I’m currently working on a new project<br>💭 Currently learning about data structures and algorithms , principles of software engineering  and also nodeJs<br>
+<h1 align="center">✨ Marwan Mohamed | @Martell0x1</h1>
+<p align="center">
+  🚀 Software Engineer | 🧠 Problem Solver | ✍️ Tech Writer<br>
+  🌍 Based in Alexandria, Egypt 🇪🇬
+</p>
+
+---
+
+## 💫 About Me
+
+```js
+const aboutMe = {
+  name: "Marwan Mohamed",
+  title: "Software Engineer",
+  location: "Alexandria, Egypt",
+  studying: [
+    "Data Structures & Algorithms 🧩",
+    "Software Engineering Principles 🏗️",
+    "Node.js Backend 🚀"
+  ],
+  funFact: "I love building things that make life easier for developers 💡",
+};
+🎓 CS Graduate from University of Alexandria
+
+✍️ I share insights & articles on LinkedIn — #TechnicalWriting
+
+🔭 Currently building: A full-stack Task Manager with NestJS
+
+🌱 Learning: Clean Architecture, NestJS modules, and Mongo/Postgres combo
+
+💬 Ask me about: NodeJS, backend stuff, or college survival 😄
+
 
 
 ## 🌐 Socials:

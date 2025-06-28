@@ -20,17 +20,12 @@ const aboutMe = {
   ],
   funFact: "I love building things that make life easier for developers 💡",
 };
+```
+
 🎓 CS Graduate from University of Alexandria
-
 ✍️ I share insights & articles on LinkedIn — #TechnicalWriting
-
 🔭 Currently building: A full-stack Task Manager with NestJS
-
 🌱 Learning: Clean Architecture, NestJS modules, and Mongo/Postgres combo
-
-💬 Ask me about: NodeJS, backend stuff, or college survival 😄
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/narawanmohamed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marawan-zein/) 

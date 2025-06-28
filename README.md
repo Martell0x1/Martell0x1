@@ -7,6 +7,9 @@
   Backend Developer ||  Problem Solver ||  Tech Writer<br>
  Based in Alexandria, Egypt 🇪🇬
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Martell0x1&label=👾%20PROFILE%20VIEWS&color=E0234E&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
@@ -27,3 +30,52 @@
   📍 <strong>Location:</strong> Egypt<br><br>
   <br>
 </p>
+
+🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/narawanmohamed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marawan-zein/) 
+
+
+<h3> Languages, Tools and Technologies 🚀 </h3>
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,r,dart,kotlin&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,postgresql,mssql&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+</tr>
+<tr>
+	<td><strong>Cloud</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=aws" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,spring&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,sublime,idea,clion&theme=dark"></td>
+</tr>
+
+</table>
+<br>
+# 📊 GitHub Stats:
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martell0x1&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Martell0x1&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Martell0x1&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Martell0x1&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Martell0x1&theme=github_dark" />
+  <img height="180em"  src="https://github-contributor-stats.vercel.app/api?username=Martell0x1&limit=5&theme=nightowl&combine_all_yearly_contributions=true" />
+</div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Martell0x1&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+

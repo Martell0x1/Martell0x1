@@ -65,15 +65,26 @@
 
 </table>
 <br>
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martell0x1&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Martell0x1&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Martell0x1&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Martell0x1&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Martell0x1&theme=github_dark" />
-  <img height="180em"  src="https://github-contributor-stats.vercel.app/api?username=Martell0x1&limit=5&theme=nightowl&combine_all_yearly_contributions=true" />
+
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martell0x1&theme=github_dark" alt="Profile Details" />
+
+<!-- Top Languages & Most Used -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Martell0x1&theme=github_dark" height="180em" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Martell0x1&theme=github_dark" height="180em" alt="Most Commit Language"/>
+
+<!-- General Stats & Productivity -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Martell0x1&theme=github_dark" height="180em" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Martell0x1&theme=github_dark" height="180em" alt="Productive Time"/>
+
+<!-- Contributor Stats -->
+<img src="https://github-contributor-stats.vercel.app/api?username=Martell0x1&limit=5&theme=nightowl&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+
 </div>
+
 
 
 ## 🏆 GitHub Trophies

@@ -8,24 +8,7 @@
     <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono
-&weight=800
-&size=22
-&duration=3000
-&pause=800
-&color=E0234E
-&background=3548FF00
-&center=true
-&vCenter=true
-&width=600
-&lines=I+am+Marwan+Mohamed+%7C+%40Martell0x1;
-Backend+%26+Systems+Engineer;
-.NET+Developer;
-Node.js+%7C+NestJS+%7C+Rust+%7C+AWS;
-Building+Things+That+Scale;
-Based+in+Alexandria%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC"
-alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=E0234E&center=true&vCenter=true&width=600&lines=I+am+Marwan+Mohamed+%7C+%40Martell0x1;Backend+%26+Systems+Engineer;.NET+Developer;Node.js+%7C+NestJS+%7C+Rust+%7C+AWS;Building+Things+That+Scale;Based+in+Alexandria%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Martell0x1&label=👾%20PROFILE%20VIEWS&color=E0234E&style=for-the-badge" alt="profile views"/>

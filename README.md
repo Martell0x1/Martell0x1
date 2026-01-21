@@ -1,5 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Marwan%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+
+
 <h1 align="center">Hey , Folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Iam+Marwan Mohamed | @Martell0x1;Backend+%26+Systems+Engineer;.NET Developer;Clean+Architecture+%7C+Cloud+%7C+Security;Rust+%7C+NestJS+%7C+AWS;Building+Things+That+Scale" />

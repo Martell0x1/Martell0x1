@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/31cca499-077d-4433-b49a-d48f3696c98f" /><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f14,50:1a1a1a,100:E0234E&height=180&section=header&text=Marwan%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
@@ -12,6 +12,10 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Martell0x1&label=👾%20PROFILE%20VIEWS&color=E0234E&style=for-the-badge" alt="profile views"/>
+</p>
+<p align="center">
+	<a style="margin-left: 10px;"  target="_blank" href="https://martell0x1.github.io/img">
+		<img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

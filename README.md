@@ -14,6 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=Martell0x1&label=👾%20PROFILE%20VIEWS&color=E0234E&style=for-the-badge" alt="profile views"/>
 </p>
 <p align="center">
+	See My Portfolio:
 	<a style="margin-left: 10px;"  target="_blank" href="https://martell0x1.github.io/img">
 		<img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000"></a>
 </p>
